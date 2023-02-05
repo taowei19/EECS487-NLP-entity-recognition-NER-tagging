@@ -5,6 +5,8 @@ Steps:
 2.use Beam Search to find the most likely hidden state sequence, find the best smoothing k and beam_width, the final correctness will be 93% (for 2000 sentences).
 3.use the Forward Algorithm to calculate the probability of a specific sequence of observations without knowledge of the hidden states.(Another algorithm, based on the pervious code and further calculation. Similar to viteribi algorithm.)
 
+Language: Python
+
 
 About Named Entity Recognition¶
 Named Entity Recognition (NER) is the task of identifying "named entities", which are typically proper nouns associated with people (e.g. "Oprah Winfrey"), places (e.g. "Scotland"), organizations (e.g. "Ford Motor Company"), and more.
