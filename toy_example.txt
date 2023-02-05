@@ -1,0 +1,19 @@
+1 cold
+2 cold
+2 hot
+3 hot
+1 cold
+
+3 hot
+3 hot
+2 cold
+1 cold
+2 hot
+
+1 cold
+3 hot
+2 hot
+2 cold
+2 hot
+3 hot
+
