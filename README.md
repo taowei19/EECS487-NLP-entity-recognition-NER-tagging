@@ -1,4 +1,4 @@
-# EECS487-NLP-entity-recognition-NER-tagging
+# EECS487-NLP-named-entity-recognition-NER-tagging
 train a Hidden Markov Model (HMM) to do named entity recognition (NER) tagging:
 Steps:
 1.train an HMM from given corpus
